@@ -98,7 +98,7 @@ body > footer {
     margin-left: 12px;
 }
 
- > div > li > a{
+#footer-ul > div > li > a{
     text-decoration: none;
     color: rgb(4, 0, 255);
 
