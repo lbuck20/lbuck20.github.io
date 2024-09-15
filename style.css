@@ -51,9 +51,9 @@ body > header > nav > ul > li{
 .navbutton {
     list-style: none;
     text-decoration: none;
-    color: white;
+    color: black;
     padding: 8px;
-    border: 1px solid white;
+    border: 1px solid red;
     border-radius: 20%;
 }
 
@@ -67,7 +67,7 @@ body > header {
 }
 
 footer {
-    background-color: rgb(25, 199, 103);
+    background-color: white;
 }
 
 #main-content{
