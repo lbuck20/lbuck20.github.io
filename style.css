@@ -58,8 +58,8 @@ body > header > nav > ul > li{
 }
 
 body > header {
-    background-color: orange;
-    color: white;
+    background-color: white;
+    color: black;
     display: flex;
     height: 12vh;
     align-items: center;
